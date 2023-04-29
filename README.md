@@ -22,4 +22,4 @@ It all started when we were finishing our robotic research project. My classmate
 **The project is still in development**. I plan adding more features and refractoring the code. Feel free to submit a pull request if you want to request a feature!
 
 # Reporting Bugs or Errors
-Feel free to use the Issues tab to report any errors and bugs :)
+Feel free to use the issues tab to report any errors and bugs :)
