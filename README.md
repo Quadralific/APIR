@@ -19,10 +19,10 @@
 It all started when we were finishing our robotic research project. My classmates keep asking me how to use this, how to use that, and how I can fix this. And this inspired me to make a collection of tools that help my classmates or even other robotics students finish their projects.
 
 # Project Status
-**The project is still in development**. I plan adding more features and refractoring the code. Feel free to submit a pull request if you want to request a feature!
+**The project is still in development**. I plan adding more features and refractoring the code. Feel free to submit a [pull request](https://github.com/QuadraBoy/APIR/pulls) if you want to request a feature!
 
 # Reporting Bugs or Errors
-Feel free to use the issues tab to report any errors and bugs :)
+Feel free to use the [issues tab](https://github.com/QuadraBoy/APIR/issues) to report any errors and bugs :)
 
 # Code Examples
-Check the wiki page for code examples
+Check the [wiki](https://github.com/QuadraBoy/APIR/wiki) page for code examples
