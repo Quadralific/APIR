@@ -3,7 +3,7 @@
 
 # Features
 - It has classes for sensors which has useful functions for it
-- Potable
+- Portable
 - Easy to use
 - Easy to adapt
 
