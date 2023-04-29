@@ -19,7 +19,7 @@
 It all started when we were finishing our robotic research project. My classmates keep asking me how to use this, how to use that, and how I can fix this. And this inspired me to make a collection of tools that help my classmates or even other robotics students finish their projects.
 
 # Project Status
-**The project is still experimental**. I plan adding more features and refractoring the code.
+**The project is still in development*. I plan adding more features and refractoring the code. Feel free to use submit a pull request if you want to request a feature!
 
 # Reporting Bugs or Errors
 Feel free to use the Issues tab to report any errors and bugs :) .
