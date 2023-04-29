@@ -1,4 +1,6 @@
 # APIR
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://en.wikipedia.org/wiki/C%2B%2B) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://en.wikipedia.org/wiki/Open-source_software)
+
 **Abstract Programming Interface for Robotics**, or **APIR** for short, is a collection of tools that helps robotics students accomplish their robotics project!
 
 # Features
