@@ -23,3 +23,6 @@ It all started when we were finishing our robotic research project. My classmate
 
 # Reporting Bugs or Errors
 Feel free to use the issues tab to report any errors and bugs :)
+
+# Code Examples
+Check the wiki page for code examples
