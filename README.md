@@ -1,5 +1,5 @@
 # APIR
-**Abstract Programming Interface for Robotics**, or **APIR** for short, is a collection of classes that helps robotics students accomplish their robotics project!
+**Abstract Programming Interface for Robotics**, or **APIR** for short, is a collection of tools that helps robotics students accomplish their robotics project!
 
 # Features
 - It has classes for sensors which has useful functions for it
