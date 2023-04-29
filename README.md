@@ -8,7 +8,7 @@
 - Easy to adapt
 
 # Using the Library
-- Install the .ZIP file from the downloads page.
+- Install the .ZIP file from the releases page.
 
 - If you have Arduino IDE, go to **Sketch > Include Library > Add .ZIP Library**
 ![image](https://user-images.githubusercontent.com/79918051/235280104-cad9c829-4d14-4910-9f49-2e85e458fb63.png)
