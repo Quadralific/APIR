@@ -1,10 +1,13 @@
 # APIR
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://en.wikipedia.org/wiki/C%2B%2B) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://en.wikipedia.org/wiki/Open-source_software) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![downloadcount](https://img.shields.io/github/downloads/QuadraBoy/APIR/total)
 
-**Abstract Programming Interface for Robotics**, or **APIR** for short, is a library with a collection of tools that helps robotics students accomplish their robotics project!
+![download](https://img.shields.io/github/downloads/QuadraBoy/APIR/total?style=for-the-badge) ![issues](https://img.shields.io/github/issues/QuadraBoy/APIR?style=for-the-badge) ![commit](https://img.shields.io/github/last-commit/QuadraBoy/APIR?style=for-the-badge)
 
-# Features
+Certain tasks in Arduino can be hard. It requires a lot of things to be setup (e.g., pins, calculations, sensors, etc.), which can be difficult to manage as the project grows and makes the code base difficult to read. 
+
+APIR aims to fix this problems by providing a library that automatically does the job and hides the complexity.
+
+## Features
 - It has useful tools for different kinds of sensors
 - Portable
 - Flexible
@@ -12,7 +15,7 @@
 - Easy to adapt
 - Easy to import to your project
 
-# Using the Library
+## Using APIR
 - Install the .ZIP file from the [releases](https://github.com/QuadraBoy/APIR/releases) page.
 
 - If you have Arduino IDE, go to **Sketch > Include Library > Add .ZIP Library**
@@ -20,7 +23,7 @@
 
 - And finally, locate the .ZIP file you've just downloaded and select it.
 
-# Why use APIR?
+## Why use APIR?
 ```cpp
 #define TRIG 1
 #define ECHO 2
@@ -88,19 +91,22 @@ void loop() {
 ```
 Seeing any difference? If your answer is yes, that would be correct! As you can see from this example, that code is much cleaner and hides the complicated details. 
 
-# History
+## History
 It all started when we were finishing our robotic research project. My classmates keep asking me how to use this, how to use that, and how to fix this. And this inspired me to make a project (or library, in this case) that provides my classmates or even other robotics students with a collection of useful tools that can make life easier when making a robotics project.
 
-# Project Status
+## Project Status
 **The project is still in development**. APIR still needs a lot of time to get shaped. Feel free to submit a [pull request](https://github.com/QuadraBoy/APIR/pulls) if you want to request something that can improve APIR! Any contributions to the project will be appreciated!
 
-# Project Goals
+## Project Goals
 The goals of this project are to provide a collection of useful tools for robotics students without any overheads that can affect performance and speed while being easy to use.
 
-# Reporting Bugs or Errors
+## Reporting Bugs or Errors
 Does APIR have any errors or bugs when you use it? Report it at the [issues](https://github.com/QuadraBoy/APIR/issues) tab.
 
-When making an issue report, make sure that your issue report is very in-depth and can be reproduce or in other words, can be repeated.
+When making an issue report, make sure that your issue report is very in-depth and the issue can be reproduce or in other words, can be repeated.
 
-# Code Examples
+## Showing Your Support
+Has APIR made your life significantly easier? Consider star this repository, it means a lot!
+
+## Code Examples
 Check the [wiki](https://github.com/QuadraBoy/APIR/wiki) page for code examples.
