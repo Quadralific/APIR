@@ -92,7 +92,7 @@ Seeing any difference? If your answer is yes, that would be correct! As you can 
 It all started when we were finishing our robotic research project. My classmates keep asking me how to use this, how to use that, and how to fix this. And this inspired me to make a project (or library, in this case) that provides my classmates or even other robotics students with a collection of useful tools that can make life easier when making a robotics project.
 
 # Project Status
-**The project is still in development**. APIR still needs a lot of time to get shaped. Feel free to submit a [pull request](https://github.com/QuadraBoy/APIR/pulls) if you want to request something that can improve APIR!
+**The project is still in development**. APIR still needs a lot of time to get shaped. Feel free to submit a [pull request](https://github.com/QuadraBoy/APIR/pulls) if you want to request something that can improve APIR! Any contributions to the project will be appreciated!
 
 # Project Goals
 The goals of this project are to provide a collection of useful tools for robotics students without any overheads that can affect performance and speed while being easy to use.
