@@ -46,7 +46,7 @@ void loop() {
   int meter = cm * 0.01;
 }
 ```
-In this code example, we can see that this code is for ultrasonic sensor.
+In this code example, we can see that this code is for the ultrasonic sensor.
 ```cpp
   pinMode(TRIG, OUTPUT);
   pinMode(ECHO, INPUT);
