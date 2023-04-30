@@ -6,6 +6,7 @@
 # Features
 - It has classes for sensors which has useful functions for it
 - Portable
+- Flexible
 - Easy to use
 - Easy to adapt
 
