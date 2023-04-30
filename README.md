@@ -5,7 +5,7 @@
 
 Certain tasks in Arduino can be hard. It requires a lot of things to be setup (e.g., pins, calculations, sensors, etc.), which can be difficult to manage as the project grows and makes the code base difficult to read. 
 
-APIR aims to fix this problems by providing a library that automatically does the job and hides the complexity.
+**Abstract Programming Interface for Robotics**, or **APIR** for short, aims to fix this problems by providing a library that automatically does the job and hides the complexity.
 
 ## Features
 - It has useful tools for different kinds of sensors
