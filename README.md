@@ -68,7 +68,7 @@ In the setup function, we set the pins of the ultrasonic sensor to OUTPUT and IN
 ```
 In the loop function, we write HIGH for the TRIG pin because we need it to know the duration of the ultrasonic sound. And after that, we used that duration, converted it to cm, and converted that cm to inch and meter.
 
-Now here's the problem: doing all of what I mentioned is a hassle. Sometimes, when the robotics student is writing code, they may write one number wrong in the formulas and the whole output will be wrong, and this will annoy robotics students. This is where APIR comes in. With APIR, we could just do this.
+Now here's the problem: doing all of what I mentioned is a hassle. Sometimes, when the robotics student is writing code, they may write one number wrong in the formulas and the whole output will be wrong, and this will annoy the robotics students. This is where APIR comes in. With APIR, we could just do this.
 ```cpp
 #include "SonicSensor.h"
 
