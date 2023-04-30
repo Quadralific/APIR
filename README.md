@@ -19,7 +19,7 @@
 - And finally, locate the .ZIP file you've just downloaded and select it.
 
 # History
-It all started when we were finishing our robotic research project. My classmates keep asking me how to use this, how to use that, and how I can fix this. And this inspired me to make a collection of tools that help my classmates or even other robotics students finish their projects.
+It all started when we were finishing our robotic research project. My classmates keep asking me how to use this, how to use that, and how to fix this. And this inspired me to make a project (or library, in this case) that provides my classmates or even other robotics students with a collection of useful tools that can make life easier when making a robotics project.
 
 # Project Status
 **The project is still in development**. I plan adding more features and refractoring the code. Feel free to submit a [pull request](https://github.com/QuadraBoy/APIR/pulls) if you want to request a feature!
