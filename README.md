@@ -100,7 +100,7 @@ The goals of this project are to provide a collection of useful tools for roboti
 # Reporting Bugs or Errors
 Does APIR have any errors or bugs when you use it? Report it at the [issues](https://github.com/QuadraBoy/APIR/issues) tab.
 
-When making an issue report, make sure that your issue is very in-depth and can be reproduce or in other words, can be repeated.
+When making an issue report, make sure that your issue report is very in-depth and can be reproduce or in other words, can be repeated.
 
 # Code Examples
 Check the [wiki](https://github.com/QuadraBoy/APIR/wiki) page for code examples.
