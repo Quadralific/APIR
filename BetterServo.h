@@ -7,16 +7,19 @@
 
 #include "Arduino.h"
 #include "Servo.h"
+#include "Peripheral.h"
 
-class BetterServo {
-    unsigned int pin;
+class BetterServo : public Peripheral {
     Servo servo;
 
     public:
         BetterServo(unsigned int pin);
 
         void setup();
-        void rotate(unsigned int degrees);
+
+        int getCurrentAngle();
+
+        void rotate(int degrees);
 };
 
 #endif

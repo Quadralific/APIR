@@ -1,14 +1,16 @@
 #include "BetterServo.h"
 
-BetterServo::BetterServo(unsigned int pin) {
-    this->pin = pin;
-}
+BetterServo::BetterServo(unsigned int pin): Peripheral(pin) {}
 
 void BetterServo::setup() {
-    pinMode(pin, OUTPUT);
-    servo.attach(pin);
+    pinMode(getPin(), OUTPUT);
+    servo.attach(getPin());
 }
 
-void BetterServo::rotate(unsigned int degrees) {
+int BetterServo::getCurrentAngle() {
+    return servo.read();
+}
+
+void BetterServo::rotate(int degrees) {
     servo.write(degrees);
 }
