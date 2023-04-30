@@ -78,7 +78,6 @@ void setup() {
 }
 
 void loop() {
-  //NOTE: sensor.begin() must be called first before accesing the distance!!!
   sensor.begin();
 
   int cm = sensor.getDistance(CENTIMETERS);
