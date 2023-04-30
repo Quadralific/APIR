@@ -1,5 +1,6 @@
 # APIR
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://en.wikipedia.org/wiki/C%2B%2B) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://en.wikipedia.org/wiki/Open-source_software) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![downloadcount](https://img.shields.io/github/downloads/QuadraBoy/APIR/total)
 
 **Abstract Programming Interface for Robotics**, or **APIR** for short, is a library with a collection of tools that helps robotics students accomplish their robotics project!
 
