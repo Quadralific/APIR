@@ -17,7 +17,7 @@ Certain tasks in Arduino can be hard. It requires a lot of things to be setup (e
 - Easy to import to your project
 
 ## Using APIR
-- Install the .ZIP file from the [releases](https://github.com/QuadraBoy/APIR/releases) page.
+- Install the .ZIP file from the [releases](https://github.com/QuadraBoy/APIR/releases) page. (NOTE: Use the pre-release versions at your own risk.)
 
 - If you have Arduino IDE, go to **Sketch > Include Library > Add .ZIP Library**
 ![image](https://user-images.githubusercontent.com/79918051/235280104-cad9c829-4d14-4910-9f49-2e85e458fb63.png)
