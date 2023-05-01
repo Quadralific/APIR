@@ -11,9 +11,13 @@ Certain tasks in Arduino can be hard. It requires a lot of things to be setup (e
 - It has useful tools for different kinds of sensors
 - Portable
 - Flexible
+- Lightweight
 - Easy to use
 - Easy to adapt
 - Easy to import to your project
+
+# Installation
+- You can install the stable release on the releases page
 
 ## Using APIR
 - Install the .ZIP file from the [releases](https://github.com/QuadraBoy/APIR/releases) page.
