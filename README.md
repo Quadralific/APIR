@@ -71,7 +71,7 @@ In the loop function, we write HIGH for the TRIG pin because we need it to know 
 
 Now here's the problem: doing all of what I mentioned is a hassle. Sometimes, when the robotics student is writing code, they may write one number wrong in the formulas and the whole output will be wrong, and this will annoy the robotics students. This is where APIR comes in. With APIR, we could just do this.
 ```cpp
-#include "SonicSensor.h"
+#include "peripherals/sensors/SonicSensor.h"
 
 #define TRIG_PIN 1
 #define ECHO_PIN 2
@@ -85,9 +85,9 @@ void setup() {
 void loop() {
   sensor.begin();
 
-  int cm = sensor.getDistance(CENTIMETERS);
-  int inch = sensor.getDistance(INCHES);
-  int meters = sensor.getDistance(METERS);
+  int cm = sensor.getDistance(CENTIMETER);
+  int inch = sensor.getDistance(INCH);
+  int meters = sensor.getDistance(METER);
 }
 ```
 Seeing any difference? If your answer is yes, that would be correct! As you can see from this example, that code is much cleaner and hides the complicated details. 
