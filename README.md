@@ -7,6 +7,8 @@
 
 ![download](https://img.shields.io/github/downloads/QuadraBoy/APIR/total?style=for-the-badge) ![issues](https://img.shields.io/github/issues/QuadraBoy/APIR?style=for-the-badge) ![commit](https://img.shields.io/github/last-commit/QuadraBoy/APIR?style=for-the-badge)
 
+# **DON'T DOWNLOAD AT THE MOMENT!!! There seems to be a massive error on version 1.3**
+
 Certain tasks in Arduino can be hard. It requires a lot of things to be setup (e.g., pins, calculations, sensors, etc.), which can be difficult to manage as the project grows and makes the code base difficult to read. 
 
 **Abstract Programming Interface for Robotics**, or **APIR** for short, aims to fix this problems by providing a lightweight library that automatically does the job and hides the complexity.
