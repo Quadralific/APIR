@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Peripheral		KEYWORD1
+SonicSensor 	KEYWORD1
+InfraredSensor 	KEYWORD1
+WaterSensor 	KEYWORD1
+TempSensor 		KEYWORD1
+MeasureUnit		KEYWORD1
+TemperatureUnit	KEYWORD1
+WaterLevel		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setup			KEYWORD2
+getData		KEYWORD2
+getPin		KEYWORD2
+getEchoPin		KEYWORD2
+getEchoData 	KEYWORD2
+getWaterLevel 	KEYWORD2
+getTemperature	KEYWORD2
+getDistance		KEYWORD2
+begin 		KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
