@@ -7,8 +7,6 @@
 
 ![download](https://img.shields.io/github/downloads/QuadraBoy/APIR/total?style=for-the-badge) ![issues](https://img.shields.io/github/issues/QuadraBoy/APIR?style=for-the-badge) ![commit](https://img.shields.io/github/last-commit/QuadraBoy/APIR?style=for-the-badge)
 
-# **DON'T DOWNLOAD AT THE MOMENT!!! There seems to be a massive error on version 1.3**
-
 Certain tasks in Arduino can be hard. It requires a lot of things to be setup (e.g., pins, calculations, sensors, etc.), which can be difficult to manage as the project grows and makes the code base difficult to read. 
 
 **Abstract Programming Interface for Robotics**, or **APIR** for short, aims to fix this problems by providing a lightweight library that automatically does the job and hides the complexity.
@@ -77,7 +75,7 @@ In the loop function, we write HIGH for the TRIG pin because we need it to know 
 
 Now here's the problem: doing all of what I mentioned is a hassle. Sometimes, when the robotics student is writing code, they may write one number wrong in the formulas and the whole output will be wrong, and this will annoy the robotics students. This is where APIR comes in. With APIR, we could just do this.
 ```cpp
-#include "peripherals/sensors/SonicSensor.h"
+#include "SonicSensor.h"
 
 #define TRIG_PIN 1
 #define ECHO_PIN 2
