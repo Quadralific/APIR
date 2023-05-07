@@ -103,7 +103,7 @@ It all started when we were finishing our robotic research project. My classmate
 **The project is still in development**. APIR still needs a lot of time to get shaped. Feel free to submit a [pull request](https://github.com/QuadraBoy/APIR/pulls) if you want to request something that can improve APIR! Any contributions to the project will be appreciated!
 
 ## Project Goals
-The goals of this project are to provide a collection of useful tools for robotics students without any overheads that can affect performance and speed while being easy to use.
+The goal of this project is to provide a collection of useful tools for robotics students without any overheads while being easy to use.
 
 ## Reporting Bugs or Errors
 Does APIR have any errors or bugs when you use it? Report it at the [issues](https://github.com/QuadraBoy/APIR/issues) tab.
