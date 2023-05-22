@@ -94,7 +94,7 @@ void loop() {
   int meters = sensor.getDistance(METER);
 }
 ```
-Seeing any difference? If your answer is yes, that would be correct! As you can see from this example, that code is much cleaner and hides the complicated details. 
+Seeing any difference? If your answer is yes, that would be correct! As you can see from this example, the code is much cleaner and hides the complicated details. 
 
 ## History
 It all started when we were finishing our robotic research project. My classmates keep asking me how to use this, how to use that, and how to fix this. And this inspired me to make a project (or library, in this case) that provides my classmates or even other robotics students with a collection of useful tools that can make life easier when making a robotics project.
